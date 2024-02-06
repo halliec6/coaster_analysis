@@ -1,0 +1,651 @@
+Rank,Name,Park,Location,Supplier,Year,Awarded
+1,Fury 325,Carowinds,"Charlotte, North Carolina",B&M,2015,2022
+2,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain Const.,2018,2022
+3,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2022
+4,Iron Gwazi,Busch Gardens Tampa Bay,"Tampa, Florida",Rocky Mountain Const.,2022,2022
+5,Jurassic World VelociCoaster,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2021,2022
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2022
+7,Superman The Ride,Six Flags New England,"Agawam, Massachusetts",Intamin,2000,2022
+8,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1999,2022
+9,Intimidator 305,Kings Dominion,"Doswell, Virginia",Intamin,2010,2022
+10,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2022
+11,Lightning Rod,Dollywood,"Pigeon Forge, Tennessee",Rocky Mountain Const.,2016,2022
+12,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2022
+13,Phantom’s Revenge,Kennywood,"West Mifflin, Pennsylvania",Morgan/Arrow,2001,2022
+14,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain Const.,2013,2022
+15,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2022
+16,Mako,SeaWorld Orlando,"Orlando, Florida",B&M,2016,2022
+17,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2022
+18,Twisted Colossus,Six Flags Magic Mountain,"Valencia, California",Rocky Mountain Const.,2015,2022
+19,Candymonium,Hersheypark,"Hershey, Pennsylvania",B&M,2020,2022
+20,Orion,Kings Island,"Mason, Ohio",B&M,2020,2022
+21,Nitro,Six Flags Great Adventure,"Jackson, New Jersey",B&M,2001,2022
+22,Time Traveler,Silver Dollar City,"Branson, Missouri",Mack,2018,2022
+23,Skyrush,Hersheypark,"Hershey, Pennsylvania",Intamin,2012,2022
+24,Hagrid’s M. C. Motorbike Adv.,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2019,2022
+25,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2022
+26,Zadra,Energylandia,"Zator, Poland",Rocky Mountain Const.,2019,2022
+27,Intimidator,Carowinds,"Charlotte, North Carolina",B&M,2010,2022
+28,Riddler Mindbender,Six Flags Over Georgia,"Austell, Georgia",Schwarzkopf,1978,2022
+29,Montu,Busch Gardens Tampa Bay,"Tampa, Florida",B&M,1996,2022
+30,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2022
+31,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2022
+32,X2,Six Flags Magic Mountain,"Valencia, California",Arrow,2001,2022
+33,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",Mack,2009,2022
+34,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,2022
+35,Steel Curtain,Kennywood,"West Mifflin, Pennsylvania",S&S,2019,2022
+36,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1997,2022
+37,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2022
+38,Raging Bull,Six Flags Great America,"Gurnee, Illinois",B&M,1999,2022
+39,Ride to Happiness,Plopsaland De Panne,"De Panne, Belgium",Mack,2021,2022
+40,Twisted Timbers,Kings Dominion,"Doswell, Virginia",Rocky Mountain Const.,2018,2022
+41,Goliath,Six Flags Over Georgia,"Austell, Georgia",B&M,2006,2022
+42,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain Const.,2011,2022
+43,Pantheon,Busch Gardens Williamsburg,"Williamsburg, Virginia",Intamin,2022,2022
+44,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,2022
+45,Wicked Cyclone,Six Flags New England,"Agawam, Massachusetts",Rocky Mountain Const.,2015,2022
+46,Steel Dragon 2000,Nagahsima Spa Land,"Kuwana, Japan",Morgan,2000,2022
+47,Shock Wave,Six Flags Over Texas,"Arlington, Texas",Schwarzkopf,1978,2022
+48,Jetline,Gröna Lund,"Stockholm, Sweden",Schwarzkopf,1988,2022
+49,Shamabala,PortAventura,"Salou, Spain",B&M,2012,2022
+50,Whizzer,Six Flags Great America,"Gurnee, Illinois",Schwarzkopf,1976,2022
+1,Fury 325,Carowinds,"Charlotte, North Carolina",B&M,2015,2023
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2023
+3,Jurassic World VelociCoaster,Universal Islands of Adventure,"Orlando, Florida",Intamin,2021,2023
+4,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain Const.,2018,2023
+5,Iron Gwazi,Busch Gardens Tampa Bay,"Tampa, Florida",Rocky Mountain Const.,2022,2023
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2023
+7,Superman The Ride,Six Flags New England,"Agawam, Massachusetts",Intamin,2000,2023
+8,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2023
+tie-9,Intimidator 305,Kings Dominion,"Doswell, Virginia",Intamin,2010,2023
+tie-9,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2023
+11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1999,2023
+12,Phantom’s Revenge,Kennywood,"West Mifflin, Pennsylvania",Morgan/Arrow,2001,2023
+13,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2023
+14,Lightning Rod,Dollywood,"Pigeon Forge, Tennessee",Rocky Mountain Const.,2016,2023
+tie-15,Intimidator,Carowinds,"Charlotte, North Carolina",B&M,2010,2023
+tie-15,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain Const.,2013,2023
+17,Mako,SeaWorld Orlando,"Orlando, Florida",B&M,2016,2023
+18,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2023
+19,Hagrid’s Magical Creatures Mmotorbike Adventure,Universal Islands of Adventure,"Orlando, Florida",Intamin,2019,2023
+20,Nitro,Six Flags Great Adventure,"Jackson, New Jersey",B&M,2001,2023
+21,X2,Six Flags Magic Mountain,"Valencia, California",Arrow,2001,2023
+22,Time Traveler,Silver Dollar City,"Branson, Missouri",Mack,2018,2023
+23,Guardians of the Galaxy: Cosmic Rewind,EPCOT,"Lake Buena Vista, Florida",Vekoma,2022,2023
+24,Candymonium,Hersheypark,"Hershey, Pennsylvania",B&M,2020,2023
+25,ArieForce One,Fun Spot America Atlanta,"Fayetteville, Georgia",Rocky Mountain Const.,2023,2023
+26,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2023
+27,Orion,Kings Island,"Mason, Ohio",B&M,2020,2023
+28,Twisted Colossus,Six Flags Magic Mountain,"Valencia, California",Rocky Mountain Const.,2015,2023
+29,Skyrush,Hersheypark,"Hershey, Pennsylvania",Intamin,2012,2023
+30,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2023
+31,Ride to Happiness,Plopsaland De Panne,"De Panne, Belgium",Mack,2021,2023
+32,Zadra,Energylandia,"Zator, Poland",Rocky Mountain Const.,2019,2023
+33,Fønix,Fårup Sommerland,"Blokhus, Denmark",Vekoma,2022,2023
+34,Montu,Busch Gardens Tampa Bay,"Tampa, Florida",B&M,1996,2023
+35,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2023
+36,Steel Curtain,Kennywood,"West Mifflin, Pennsylvania",S&S,2019,2023
+37,Big Bear Mountain,Dollywood,"Pigeon Forge, Tennessee",Vekoma,2023,2023
+38,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain Const.,2011,2023
+39,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",Mack,2009,2023
+40,Wildcat’s Revenge,Hersheypark,"Hershey, Pennsylvania",Rocky Mountain Const.,2023,2023
+tie-41,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2023
+tie-41,Riddler Mindbender,Six Flags Over Georgia,"Austell, Georgia",Schwarzkopf,1978,2023
+tie-43,Steel Dragon 2000,Nagashima Spa Land,"Nagashima, Japan",Morgan,2000,2023
+tie-43,Twisted Timbers,Kings Dominion,"Doswell, Virginia",Rocky Mountain Const.,2018,2023
+45,Goliath,Six Flags Over Georgia,"Austell, Georgia",B&M,2006,2023
+46,F.L.Y.,Phantasialand,"Brühl, Germany",Vekoma,2020,2023
+47,Cheetah Hunt,Busch Gardens Tampa Bay,"Tampa, Florida",Intamin,2011,2023
+48,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1997,2023
+49,Pantheon,Busch Gardens Williamsburg,"Williamsburg, Virginia",Intamin,2022,2023
+50,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,2023
+1,Fury 325,Carowinds,"Charlotte, North Carolina",B&M,2015,2021
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2021
+3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain,2018,2021
+4,Superman The Ride,Six Flags New England,"Agawam, Massachusetts",Intamin,2000,2021
+5,Candymonium,Hersheypark,"Hershey, Pennsylvania",B&M,2020,2021
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2021
+7,Lightning Rod,Dollywood,"Pigeon Forge, Tennessee",Rocky Mountain,2016,2021
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2021
+9,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2021
+10,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2021
+11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1999,2021
+12,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain,2013,2021
+13,Intimidator 305,Kings Dominion,"Doswell, Virginia",Intamin,2010,2021
+14,Nitro,Six Flags Great Adventure,"Jackson, New Jersey",B&M,2001,2021
+15,Phantom’s Revenge,Kennywood,"West Mifflin, Pennsylvania",Morgan/Arrow,2001,2021
+16,Twisted Colossus,Six Flags Magic Mountain,"Valencia, California",Rocky Mountain,2015,2021
+17,Mako,SeaWorld Orlando,"Orlando, Florida",B&M,2016,2021
+18,Jurassic World VelociCoaster,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2021,2021
+19,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2021
+20,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2021
+21,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1997,2021
+22,Montu,Busch Gardens Tampa,"Tampa, Florida",B&M,1996,2021
+23 tie,Intimidator,Carowinds,"Charlotte, North Carolina",B&M,2010,2021
+23 tie,Steel Curtain,Kennywood,"West Mifflin, Pennsylvania",S&S,2019,2021
+25,Mind Bender,Six Flags Over Georgia,"Austell, Georgia",Schwarzkopf,1978,2021
+26 tie,Time Traveler,Silver Dollar City,"Branson, Missouri",Mack,2018,2021
+26 tie,X2,Six Flags Magic Mountain,"Valencia, California",Arrow,2002,2021
+28 tie,Goliath,Six Flags Over Georgia,"Austell, Georgia",B&M,2006,2021
+28 tie,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,2021
+30,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",Mack,2009,2021
+31,Orion,Kings Island,"Mason, Ohio",B&M,2020,2021
+32,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2021
+33 tie,Hagrid’s Magical Creatures Motorbike Adventure,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2019,2021
+33 tie,Skyrush,Hersheypark,"Hershey, Pennsylvania",Intamin,2012,2021
+35,Steel Dragon 2000,Nagashima Spa Land,"Nagashima, Japan",Morgan,2000,2021
+36,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,2021
+37,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2021
+38,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,2021
+39,Twisted Timbers,Kings Dominion,"Doswell, Virginia",Rocky Mountain,2018,2021
+40,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2021
+41,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Florida",Intamin,2011,2021
+42 tie,Black Mamba,Phantasialand,"Brϋhl, Germany",B&M,2006,2021
+42 tie,Wicked Cyclone,Six Flags New England,"Agawam, Massachusetts",Rocky Mountain,2015,2021
+44,Raging Bull,Six Flags Great America,"Gurnee, Illinois",B&M,1999,2021
+45,Steel Force,Dorney Park,"Allentown, Pennsylvania",Morgan,1997,2021
+46,Jetline,Gröna Lund,"Stockholm, Sweden",Schwarzkopf,1988,2021
+47,Shock Wave,Six Flags Over Texas,"Arlington, Texas",Schwarzkopf,1978,2021
+48 tie,Cannibal,Lagoon,"Farmington, Utah",ART Engineering,2015,2021
+48 tie,Raptor,Cedar Point,"Sandusky, Ohio",B&M,1994,2021
+50,Lisebergbanan,Liseberg,"Gothenburg, Sweden",Schwarzkopf,1987,2021
+1,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,2019
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2019
+3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain,2018,2019
+4,Superman: The Ride,Six Flags New England,"Agawam, Mass.",Intamin,2000,2019
+5,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2019
+6,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",Rocky Mountain,2015,2019
+7,Iron Rattler,Six Flags Fiesta Texas,"San Antonio,Texas",Rocky Mountain,2013,2019
+8,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,2019
+9,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2019
+10,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,2019
+11,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,2019
+12,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",Arrow/Morgan,2001,2019
+13,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2019
+14,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2019
+15,Mako,SeaWorld Orlando,"Orlando, Fla.",B&M,2016,2019
+16,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2019
+17,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2019
+18,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2019
+19,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2019
+20,Steel Dragon 2000,Nagashima Spa Land,"Nagashima, Japan",Morgan,2000,2019
+21,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,2019
+22,Time Traveler,Silver Dollar City,"Branson, Mo.",Mack,2018,2019
+23 tie,Blue Fire,Europa-Park,"Rust, Germany",Mack,2009,2019
+23 tie,X2,Six Flags Magic Mountain,"Valencia, Calif.",Arrow,2002,2019
+25,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",Schwarzkopf,1978,2019
+26,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,2019
+27,Skyrush,"Hershey, Pennsylvania","Hershey, Pa.",Intamin,2012,2019
+28,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,2019
+29,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,2019
+30 tie,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,2019
+30 tie,Montu,Busch Gardens Tampa,"Tampa, Fla.",B&M,1996,2019
+32,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1997,2019
+33,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2019
+34,Yukon Striker,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2019,2019
+35,TRON Lightcycle Power Run,Shaghai Disneyland,"Shanghai, China.",Vekoma,2016,2019
+36,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",Intamin,2011,2019
+37,Twisted Timbers,Kings Dominion,"Doswell, Va.",Rocky Mountain,2019,2019
+38,Verbolten,Busch Gardens Williamsburg,"Williamsburg, Va.",Zierer,2012,2019
+39,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",Rocky Mountain,2015,2019
+40,Kumba,Busch Gardens Tampa,"Tampa, Fla.",B&M,1993,2019
+41,Cannibal,Lagoon,"Salt Lake City, Utah",In-house/ART Eng.,2015,2019
+42,Steel Curtain,Kennywood,"West Mifflin, Pa.",S&S,2019,2019
+43,Black Mamba,Phantasialand,"Brϋhl, Germany",B&M,2006,2019
+44,Whizzer,Six Flags Great America,"Gurnee, Ill.",Schwarzkopf,1976,2019
+45,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",Premier,2013,2019
+46,Raging Bull,Six Flags Great America,"Gurnee, Ill.",B&M,1999,2019
+47 tie,Lisebergbanan,Liseberg,"Gothenburg, Sweden",Schwarzkopf,1987,2019
+47 tie,Superman Ride of Steel,Six Flags America,"Largo, Maryland",Intamin,2000,2019
+49 tie,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",B&M,2000,2019
+49 tie,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",B&M,2006,2019
+1,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,2018
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2018
+3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain,2018,2018
+4,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2018
+5,Superman: The Ride,Six Flags New England,"Agawam, Mass.",Intamin,2000,2018
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,2018
+7,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain,2013,2018
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2018
+9,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2018
+10,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2018
+11,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,2018
+12,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,2018
+13,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",Morgan/Arrow,2001,2018
+14,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2018
+15,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2018
+16,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,2018
+17,Mako,SeaWorld Orlando,"Orlando, Fla.",B&M,2016,2018
+18,Time Traveler,Silver Dollar City,"Branson, Mo.",Mack,2018,2018
+19,Blue Fire,Europa-Park,"Rust, Germany",Mack,2009,2018
+20,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2018
+21,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2018
+22,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,2018
+23,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,2018
+24,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",Rocky Mountain,2015,2018
+25,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",Schwarzkopf,1978,2018
+26,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,2018
+27,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,2018
+28,Montu,Busch Gardens Tampa,"Tampa, Fla.",B&M,1996,2018
+29,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2018
+30,Skyrush,Hersheypark,"Hershey, Pa.",Intamin,2012,2018
+31,X2,Six Flags Magic Mountain,"Valencia, Calif.",Arrow,2001,2018
+32,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1997,2018
+33,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",Rocky Mountain,2015,2018
+34,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,2018
+35,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",Intamin,2011,2018
+36,Verbolten,Busch Gardens Williamsburg,"Williamsburg, Va.",Zierer,2012,2018
+37,Kumba,Busch Gardens Tampa,"Tampa, Fla.",B&M,1993,2018
+38,Twisted Timbers,Kings Dominion,"Doswell, Va.",Rocky Mountain,2018,2018
+39 – tie,Jetline,Gröna Lund,"Stockholm, Sweden",Schwarzkopf,1988,2018
+39 – tie,Superman Ride of Steel,Six Flags America,"Upper Marlsboro, Md.",Intamin,2000,2018
+41,Goliath,La Ronde,"Montreal, Quebec, Canada",B&M,2006,2018
+42,Lisebergbanan,Liseberg,"Gothemburg, Sweden",Schwarzkopf,1987,2018
+43,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,2007,2018
+44,Cannibal,Lagoon,"Farmington, Utah",Lagoon,2015,2018
+45,Shambhala,PortAventura,"Salou, Spain",B&M,2012,2018
+46,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",Vekoma,2006,2018
+47,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",Rocky Mountain,2016,2018
+48,Raging Bull,Six Flags Great America,"Gurnee, Ill.",B&M,1999,2018
+49,Thunderbird,Holiday World,"Santa Claus, Ind.",B&M,2015,2018
+50,Whizzer,Six Flags Great America,"Gurnee, Ill.",Schwarzkopf,1976,2018
+1,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,2017
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2017
+3,Superman The Ride,Six Flags New England,"Agawam, Mass.",2000,Intamin,2017
+4,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,RMC,2017
+5,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2017
+6,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,2017
+7,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,2017
+8,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,2017
+9,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,RMC,2017
+10,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2017
+11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,2017
+12,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,2017
+13,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,2017
+14-tie,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,2017
+14-tie,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,RMC,2017
+16,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,RMC,2017
+17,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2017
+18,Blue Fire,Europa-Park,"Rust, Germany",2006,Mack,2017
+19,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,2017
+20,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,2017
+21,Taron,Phantasialand,"Brühl, Germany",2016,Intamin,2017
+22,Banshee,Kings Island,"Mason, Ohio",2014,B&M,2017
+23,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2017
+24,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,2017
+25,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2017
+26,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2017
+27,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,2017
+28,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,2017
+29-tie,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,2017
+29-tie,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,2017
+31,Mako,SeaWorld Orlando,"Orlando, Fla.",2016,B&M,2017
+32,Cannibal,Lagoon,"Farmington, Utah",2015,Lagoon,2017
+33,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",2016,RMC,2017
+34,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,2017
+35,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,2017
+36,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,2017
+37,Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,RMC,2017
+38,Quimera,La Feria,"Mexico City, Mexico",2007,Schwarzkopf,2017
+39,Thunderbird,Holiday World,"Santa Claus, Ind.",2015,B&M,2017
+40,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarz,2017
+41-tie,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,2017
+41-tie,Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,2017
+41-tie,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,2017
+44,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,2017
+45,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,2017
+46-tie,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2017
+46-tie,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,2017
+48,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,2017
+49,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,2017
+50,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",2013,Premier,2017
+1,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,2016
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2016
+3,Superman The Ride,Six Flags New England,"Agawam, Mass.",2000,Intamin,2016
+4,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2016
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,2016
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,2016
+7,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,2016
+8,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,2016
+9,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,2016
+10,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,2016
+11,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,2016
+12,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2016
+13,Banshee,Kings Island,"Mason, Ohio",2014,B&M,2016
+14,Blue Fire,Europa-Park,"Rust, Germany",2006,Mack,2016
+15,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2016
+16,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,RMC,2016
+17,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,2016
+18,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,RMC,2016
+19,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2016
+20,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,2016
+21,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,RMC,2016
+22,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,2016
+23,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2016
+24,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,2016
+25,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,2016
+26,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,RMC,2016
+27,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2016
+28,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",2016,RMC,2016
+29,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,2016
+30,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,2016
+31,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,2016
+32 (tie),Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,2016
+32 (tie),Taron,Phantasialand,"Brühl, Germany",2016,Intamin,2016
+34,Thunderbird,Holiday World,"Santa Claus, Ind.",2015,B&M,2016
+35,Mako,SeaWorld Orlando,"Orlando, Fla.",2016,B&M,2016
+36,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,2016
+37,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,2016
+38,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarz,2016
+39,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,2016
+40 (tie),Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,2016
+40 (tie),Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,RMC,2016
+42 (tie),Cannibal,Lagoon,"Farmington, Utah",2015,Lagoon,2016
+42 (tie),Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,2016
+44,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,2016
+45,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,2016
+46,Olympia Looping,Weiner Prater,"Vienna, Austria",1989,Schwarzkopf,2016
+47,Raptor,Cedar Point,"Sandusky, Ohio",1994,B&M,2016
+48,Bizarro,Six Flags Great Adventure,"Jackson, N.J.",1999,B&M,2016
+49 (tie),Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,2016
+49 (tie),GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B&M,2016
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2015
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2015
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2015
+4,Fury 325,Carowinds,"Charlotte, N.C.",2015,B&M,2015
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,2015
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,2015
+7,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,2015
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B&M,2015
+9,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,2015
+10,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,2015
+11,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,2015
+12,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,2015
+13,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2015
+14,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,2015
+15,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1999,Arrow,2015
+16,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,2015
+17,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",2009,Mack,2015
+18,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B&M,2015
+19,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,2015
+20 (tie),Banshee,Kings Island,"Mason, Ohio",2014,B&M,2015
+20 (tie),X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2015
+22,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2015
+23,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",2015,Rocky Mountain,2015
+24,Montu,Busch Gardens Tampa,"Tampa, Fla.",1996,B&M,2015
+25,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,2015
+26,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,2015
+27,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2015
+28,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",2015,Rocky Mountain,2015
+29,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,2015
+30,The Swarm,Thorpe Park,"Churtsey, England",2012,B&M,2015
+31 (tie),Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,2015
+31 (tie),Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,2015
+33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,2015
+34,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,2015
+35,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,2015
+36,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,2015
+37,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",2011,Intamin,2015
+38 (tie),Air,Alton Towers,"Staffordshire, England",2002,B&M,2015
+38 (tie),Kumba,Busch Gardens Tampa,"Tampa, Fla.",1993,B&M,2015
+38 (tie),Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,2015
+41,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2015
+42,SheiKra,Busch Gardens Tampa,"Tampa, Fla.",2005,B&M,2015
+43,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B&M,2015
+44,Bizarro,Six Flags Great Adventure,"Jackson, N.J.",1999,B&M,2015
+45,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,2015
+46,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,2015
+47,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma,2015
+48,Olympia Looping,owner: R. Barth & Sohn KB,(traveling),1989,Schwarzkopf,2015
+49 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2015
+49 (tie),Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",2014,Rocky Mountain,2015
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2014
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2014
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2014
+4,Diamondback,Kings Island,"Mason, Ohio",2009,B&M,2014
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B&M,2014
+6,Leviathan,Canada’s Wonderland,"Vaughan, Ont., Canada",2012,B&M,2014
+7,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,2014
+8,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,2014
+9,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B&M,2014
+10,Intimidator,Carowinds,"Charlotte, N.C.",2010,B&M,2014
+11,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan,2014
+12,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,2014
+13 (tie),Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2014
+13 (tie),Intimidator 305,Kings Dominion,"Doswell, Va.",2010,Intamin,2014
+15,Behemoth,Canada’s Wonderland,"Vaughan, Ont., Canada",2008,B&M,2014
+16,Banshee,Kings Island,"Mason, Ohio",2014,B&M,2014
+17,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",2009,Mack,2014
+18,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2014
+19,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2014
+20,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2014
+21,Nemesis,Alton Towers,"Staffordshire, England",1994,B&M,2014
+22,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B&M,2014
+23,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B&M,2014
+24,Black Mamba,Phantasialand,"Brühl, Germany",2006,B&M,2014
+25,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",2014,Chance,2014
+26 (tie),Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B&M,2014
+26 (tie),Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,2014
+28 (tie),Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2014
+28 (tie),Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B&M,2014
+30,Helix,Liseberg,"Gothenburg, Sweden",2014,Mack,2014
+31,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B&M,2014
+32,GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B&M,2014
+33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B&M,2014
+34,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B&M,2014
+35,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,2014
+36,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B&M,2014
+37,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,2014
+38,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B&M,2014
+39,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",2013,Premier,2014
+40,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2014
+41,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B&M,2014
+42,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,2014
+43,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,2014
+44,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,2014
+45,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2014
+46,Piraten,Djurs Sommerland,"Jylland, Denmark",2008,Intamin,2014
+47,Raptor,Cedar Point,"Sandusky, Ohio",1994,B&M,2014
+48,Cheetah Hunt,Busch Gardens Tampa Bay,"Tampa, Fla.",2011,Intamin,2014
+49 (tie),California Screamin’,Disney California Adventure,"Anaheim, Calif.",2001,Intamin,2014
+49 (tie),Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,2014
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2013
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2013
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2013
+4,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,2013
+5,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,2013
+6,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,2013
+7,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,2013
+8,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,2013
+9,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2013
+10,Intimidator-305,Kings Dominion,"Doswell, Va.",2010,Intamin,2013
+11,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",2013,Rocky Mountain,2013
+12,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2013
+13,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,2013
+14,Diamondback,Kings Island,"Mason, Ohio",2009,B & M,2013
+15,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B & M,2013
+16,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2013
+17,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,2013
+18,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,2013
+19,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2013
+20,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,2013
+21,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,2013
+22,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2013
+23,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,2013
+24,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B & M,2013
+25,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,2013
+26,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,2013
+27,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,2013
+28,GateKeeper,Cedar Point,"Sandusky, Ohio",2013,B & M,2013
+29,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2013
+30,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,2013
+31,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,2013
+32,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,2013
+33,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,2013
+34,Black Mamba,Phantasialand,"Brühl, Germany",2006,B & M,2013
+35 (tie),Afterburn,Carowinds,"Charlotte, N.C.",1999,B & M,2013
+35 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2013
+37,Steel Force,Dorney Park,"Allentown, Pa.",1998,Morgan,2013
+38,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,2013
+39,Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,2013
+40,Whizzer,Six Flags Great America,"Gurnee, Ill.",1976,Schwarzkopf,2013
+41,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,2013
+42 (tie),Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imagineering,2013
+42 (tie),PowderKeg,Silver Dollar City,"Branson, Mo.",2005,S & S,2013
+42 (tie),Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,2013
+45 (tie),Olympia Looping,owner: R. Barth and Sohn KG,[traveling],1989,Schwarzkopf,2013
+45 (tie),X Flight,Six Flags Great America,"Gurnee, Ill.",2012,B & M,2013
+47,Dominator,Kings Dominion,"Doswell, Va.",2008,B & M,2013
+48 (tie),Kraken,SeaWorld Orlando,"Orlando, Fla.",2000,B & M,2013
+48 (tie),Lisebergbanen,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,2013
+50,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,2013
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2012
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2012
+3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,2012
+4,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,2012
+5,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,2012
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2012
+7,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,2012
+8,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2012
+9,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,2012
+10,Diamondback,Kings Island,"Mason, Ohio",2009,B & M,2012
+11,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,2012
+12,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,2012
+13,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2012
+14,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,2012
+15,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",2012,B & M,2012
+16,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,2012
+17,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,2012
+18,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2012
+19,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,2012
+20,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2012
+21,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2012
+22,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",2012,B & M,2012
+23,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,2012
+24,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,2012
+25,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,2012
+26 (tie),Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,2012
+26 (tie),Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2012
+28,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,2012
+29,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,2012
+30,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,2012
+31,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,2012
+32,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,2012
+33,Lisebergbanan,Liseberg,"Gothenberg, Sweden",1987,Schwarzkopf,2012
+34,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,2012
+35,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2012
+36,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,2012
+37,Piraten,Djurs Sommerland,"Jylland, Denmark",2008,Intamin,2012
+38,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2012
+39,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,2012
+40,Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,2012
+41,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,2012
+42,Skyrush,Hersheypark,"Hershey, Pa.",2012,Intamin,2012
+43,Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,2012
+44,Storm Runner,Hersheypark,"Hershey, Pa.",2004,Intamin,2012
+45,Afterburn,Carowinds,"Charlotte, N.C.",1999,B & M,2012
+46,PowderKeg,Silver Dollar City,"Branson, Mo.",2005,S & S,2012
+47,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2012
+48,Goliath,Walabi World,"Biddinghuizen, The Netherlands",2002,Intamin,2012
+49,Black Mamba,Phantasialand,"Brühl, Germany",2006,B & M,2012
+50,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,2012
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2011
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2011
+3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,2011
+4,Goliath,Six Flags Over Georgia,"Austell, Ga.",2006,B & M,2011
+5,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,B & M,2011
+6,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",2011,Rocky Mountain,2011
+7 (tie),Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B&M,2011
+7 (tie),Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2011
+9,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2011
+10,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2011
+11,Diamondback,Kings Island,"Kings Mills, Ohio",2009,B & M,2011
+12,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,2011
+13,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,2011
+14,Montu,Busch Gardens Tampa Bay,"Tampa, Fla.",1996,B & M,2011
+15,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",2008,B & M,2011
+16,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2011
+17,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",1978,Schwarzkopf,2011
+18,Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,2011
+19,Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,2011
+20,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,2011
+21,Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2011
+22,SheiKra,Busch Gardens Tampa Bay,"Tampa, Fla.",2005,B & M,2011
+23,Goliath,La Ronde,"Montréal, Quebec, Canada",2006,B & M,2011
+24,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,2011
+25,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,2011
+26,Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,2011
+27,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,2011
+28,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2011
+29 (tie),Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,2011
+29 (tie),Volcano: The Blast Coaster,Kings Dominion,"Doswell, Va.",1998,Intamin,2011
+31,Kumba,Busch Gardens Tampa Bay,"Tampa, Fla.",1993,B & M,2011
+32,Piraten,Djurs Sommerand,"Jylland, Denmark",2008,Intamin,2011
+33,Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2011
+34,Blue Fire,Europa-Park,"Rust, Germany",2009,Mack,2011
+35,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2011
+36,Goliath,Walabi Holland,"Biddinghulzen, The Netherlands",2002,Intamin,2011
+37,Powder Keg,Silver Dollar City,"Branson, Mo.",2005,S & S,2011
+38,Superman Krypton Coaster,Six Flags Fiesta Texas,"San Antonio, Texas",2000,B & M,2011
+39,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,2011
+40 (tie),Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,2011
+40 (tie),Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,2011
+42,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2011
+43,Space Mountain,Disneyland,"Anaheim, Calif.",1977,WED Imagineering,2011
+44,Sky Rocket,Kennywood,"West Mifflin, Pa.",2010,Premier Rides,2011
+45 (tie),Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,2011
+45 (tie),Olympia Looping,R. Barth and Sohn,Germany,1989,Schwarzkopf/BHS,2011
+47,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imag.,2011
+48,Pepsi Max Big One,"Pleasure Beach, Blackpool","Blackpool, England",1994,Arrow,2011
+49,Lisebergbanan,Liseberg,"Gothenburg, Sweden",1987,Schwarzkopf,2011
+50,Mamba,Worlds of Fun,"Kansas City, Mo.",1998,Morgan,2011
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",2000,Intamin,2010
+2,Bizarro,Six Flags New England,"Agawam, Mass.",2000,Intamin,2010
+3,Nitro,Six Flags Great Adventure,"Jackson, N.J.",2001,B & M,2010
+4,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",1999,B & M,2010
+5,Goliath,Six Flags Over Georgia,"Atlanta, Ga.",2006,B & M,2010
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",2001,Intamin,2010
+7,Diamondback,Kings Island,"Kings Mills, Ohio",2009,B & M,2010
+8,Magnum XL-200,Cedar Point,"Sandusky, Ohio",1989,Arrow,2010
+9,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",2001,Morgan/Arrow,2010
+10,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",2003,Intamin,2010
+11,Intimidator 305,Kings Dominion,"Doswell, Va.",2010,IntaRide,2010
+12,Montu,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",1996,B & M,2010
+13,Behemoth,Canada’s Wonderland,"Vaughn, Ontario, Canada",2008,B & M,2010
+14,Mindbender,Six Flags Over Georgia,"Atlanta, Ga.",1978,Schwarzkopf,2010
+15,X2,Six Flags Magic Mountain,"Valencia, Calif.",2002,Arrow,2010
+16,Raging Bull,Six Flags Great America,"Gurnee, Ill.",1999,B & M,2010
+17,Sky Rocket,Kennywood,"West Mifflin, Pa.",2010,Premier Rides,2010
+18,Nemesis,Alton Towers,"Staffordshire, England",1994,B & M,2010
+19 (tie),Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",2007,B & M,2010
+19 (tie),SheiKra,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",2005,B & M,2010
+21 (tie),Intimidator,Carowinds,"Charlotte, N.C.",2010,B & M,2010
+21 (tie),Maverick,Cedar Point,"Sandusky, Ohio",2007,Intamin,2010
+23,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",1997,B & M,2010
+24 (tie),Kumba,Busch Gardens Tampa Bay,"Tampa Bay, Fla.",1993,B & M,2010
+24 (tie),Raptor,Cedar Point,"Sandusky, Ohio",1994,B & M,2010
+26,Ride of Steel,Darien Lake,"Darien Center, N.Y.",1999,Intamin,2010
+27 (tie),Kingda Ka,Six Flags Great Adventure,"Jackson, N.J.",2005,Intamin,2010
+27 (tie),Steel Force,Dorney Park,"Allentown, Pa.",1997,Morgan,2010
+29,Goliath,Six Flags Magic Mountain,"Valencia, Calif.",2000,Giovanola,2010
+30,Goliath,La Ronde,"Montreal, Quebec, Canada",2006,B & M,2010
+31,Dragon Challenge,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2010
+32,Superman Ride of Steel,Six Flags America,"Largo, Md.",2000,Intamin,2010
+33,Manta,SeaWorld Orlando,"Orlando, Fla.",2009,B & M,2010
+34,Powder Keg,Silver Dollar City,"Branson, Mo.",2005,S & S,2010
+35,Volcano,Kings Dominion,"Doswell, Va.",1998,Intamin,2010
+36,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",2006,Vekoma/WED Imag.,2010
+37,Shock Wave,Six Flags Over Texas,"Arlington, Texas",1978,Schwarzkopf,2010
+38,Mamba,Worlds of Fun,"Kansas City, Mo.",1998,Morgan,2010
+39,Storm Runner,Hersheypark,"Hershey, Pa.",2004,Intamin,2010
+40,Tatsu,Six Flags Magic Mountain,"Valencia, Calif.",2006,B & M,2010
+41,Goliath,Walabi World,"Biddinghuizen, The Netherlands",2002,Intamin,2010
+42,Titan,Six Flags Over Texas,"Arlington, Texas",2001,Giovanola,2010
+43,Incredible Hulk Coaster,Universal’s Islands of Adventure,"Orlando, Fla.",1999,B & M,2010
+44,The Pepsi Max Big One,Pleasure Beach Blackpool,"Blackpool, England",1994,Arrow,2010
+45,Euro-Mir,Europa-Park,"Rust, Germany",1997,Mack,2010
+46,Space Mountain,Disneyland,"Anaheim, Calif.",1977,WED Imagineering,2010
+47,Steel Eel,SeaWorld San Antonio,"San Antonio, Texas",1999,Morgan,2010
+48 (tie),Mindbender,Galaxyland,"Edmonton, Alberta, Canada",1985,Schwarzkopf,2010
+48 (tie),Revenge of the Mummy,Universal Studios,"Orlando, Fla.",2004,Premier Rides,2010
+50,Katun,Mirabilandia,"Savio, Italy",2000,B & M,2010

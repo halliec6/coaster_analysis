@@ -1,0 +1,651 @@
+Rank,Name,Park,Location,Supplier,Year,Awarded
+1,Phoenix,Knoebels Amusement Resort,"Elysburg, Pennsylvania",Dinn-PTC/Shmeck,1985,2022
+2,Voyage,Holiday World,"Santa Claus, Indiana",The Gravity Group,2006,2022
+3,El Toro,Six Flags Great Adventure,"Jackson, New Jersey",Intamin,2006,2022
+4,Boulder Dash,Lake Compounce,"Bristol, Connecticut",Custom Coasters Int.,2000,2022
+5,Beast,Kings Island,"Mason, Ohio",KECO,1979,2022
+6,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,2022
+7,Ravine Flyer 2,Waldameer,"Erie, Pennsylvania",The Gravity Group,2008,2022
+8,GhostRider,Knott’s Berry Farm,"Buena Park, California",Custom Coasters/GCII,1998,2022
+9,Outlaw Run,Silver Dollar City,"Branson, Missouri",Rocky Mountain Const.,2013,2022
+10,Thunderhead,Dollywood,"Pigeon Forge, Tennessee",Great Coasters Int.,2004,2022
+11,Gold Striker,California’s Great America,"Santa Clara, California",Great Coasters Int.,2013,2022
+12,Jack Rabbit,Kennywood,"West Mifflin, Pennsylvania",Miller,1920,2022
+13,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,2022
+14,Lightning Racer,Hersheypark,"Hershey, Pennsylvania",Great Coasters Int.,2000,2022
+15,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain Const.,2016,2022
+16,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,2022
+17,Cyclone,Luna Park/Coney Island,"Brooklyn, New York",Baker/Keenan,1927,2022
+18,Balder,Liseberg,"Gothenberg, Sweden",Intamin,2003,2022
+19,Shivering Timbers,Michigan’s Adventure,"Muskegon, Michigan",Custom Coasters Int.,1998,2022
+20,Thunderbolt,Kennywood,"West Mifflin, Pennsylvania",Vettel/Miller,1968,2022
+21,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",The Gravity Group/M&V,2007,2022
+22,Legend,Holiday World,"Santa Claus, Indiana",Custom Coasters Int.,2000,2022
+23,Comet,Great Escape,"Queensbury, New York",PTC/Schmeck,1994,2022
+24,Raven,Holiday World,"Santa Claus, Indiana",Custom Coasters Int.,1995,2022
+25,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,2022
+26,Goliath,Six Flags Great America,"Gurnee, Illinois",Rocky Mountain Const.,2014,2022
+27,Texas Stingray,SeaWorld San Antonio,"San Antonio, Texas",Great Coasters Int.,2020,2022
+28,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pennsylvania",Fetterman,2014,2022
+29,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",Phare,1958,2022
+30,Prowler,Worlds of Fun,"Kansas City, Missouri",Great Coasters Int.,2009,2022
+31-tie,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, California",Prior & Church/Looff,1924,2022
+31-tie,Twister,Knoebels Amusement Resort,"Elysburg, Pennsylvania",Fetterman,1999,2022
+33-tie,Cú Chulainn,Tayto Park,"Ashborne, Ireland",The Gravity Group,2015,2022
+33-tie,Racer,Kennywood,"West Mifflin, Pennsylvania",Miller,1927,2022
+33-tie,Renegade,Valleyfair,"Shakopee, Minnesota",Great Coasters Int.,2007,2022
+36,Rampage,Alabama Adventure,"Bessemer, Alabama",Custom Coasters Int.,1998,2022
+37,White Lightning,Fun Spot Orlando,"Orlando, Florida",Great Coasters Int.,2013,2022
+38,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Missouri",PTC/Allen,1976,2022
+39,T Express,Everland,"Yonjin-si, South Korea",Intamin,2008,2022
+40,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",L.A. Thompson,1914,2022
+41-tie,Blue Streak,Cedar Point,"Sandusky, Ohio",Hoover,1964,2022
+41-tie,Zippin Pippin,Bay Beach,"Green Bay, Wisconsin",M&V,2011,2022
+43,Boss,Six Flags St. Louis,"Eureka, Missouri",Custom Coasters Int.,2000,2022
+44,Cornball Express,Indiana Beach,"Monticello, Indiana",Custom Coasters Int.,1999,2022
+45,InvadR,Busch Gardens Williamsburg,"Williamsburg, Virginia",Great Coasters Int.,2017,2022
+46,Switchback,ZDT’s,"Seguin, Texas",The Gravity Group,2015,2022
+47,Hades 360,Mt. Olympus,"Wisconsin Dells, Wisconsin",The Gravity Group,2005,2022
+48,Tremors,Silverwood,"Athol, Idaho",Custom Coasters Int.,1999,2022
+49,American Thunder,Six Flags St. Louis,"Eureka, Missouri",Great Coasters Int.,2008,2022
+50,Joris en de Drak,Efteling,"Kaatsheuvel, Netherlands",Great Coasters Int.,2010,2022
+1,Phoenix,Knoebels,"Elysburg, Pennsylvania",Dinn-PTC/Shmeck,1985,2023
+2,Voyage,Holiday World,"Santa Claus, Indiana",The Gravity Group,2006,2023
+3,El Toro,Six Flags Great Adventure,"Jackson, New Jersey",Intamin,2006,2023
+4,Thunderhead,Dollywood,"Pigeon Forge, Tennessee",Great Coasters Int.,2004,2023
+5,Boulder Dash,Lake Compounce,"Bristol, Connecticut",Custom Consters Int.,2000,2023
+6,Beast,Kings Island,"Mason, Ohio",KECO,1979,2023
+7,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,2023
+8,Ravine Flyer 2,Waldameer,"Erie, Pennsylvania",The Gravity Group,2008,2023
+9,GhostRider,Knott’s Berry Farm,"Buena Park, California",Custom Coasters/GCII,1998,2023
+10,Outlaw Run,Silver Dollar City,"Branson, Missouri",Rocky Mountain Const.,2013,2023
+11,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,2023
+12,Gold Striker,California’s Great America,"Santa Clara, California",Great Coasters Int.,2013,2023
+13,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain Const.,2016,2023
+14,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,2023
+15,Jack Rabbit,Kennywood,"West Mifflin, Pennsylvania",Miller,1920,2023
+16,Cyclone,Luna Park,"Brooklyn, New York",Baker/Keenan,1927,2023
+17,Shivering Timbers,Michigan’s Adventure,"Muskegon, Michigan",Custom Coasters Int.,1998,2023
+18,Thunderbolt,Kennywood,"West Mifflin, Pennsylvania",Vettel/Miller,1968,2023
+19,Troy,Toverland,"Sevenum, The Netherlands",Great Coasters Int.,2007,2023
+20,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",L.A. Thompson,1914,2023
+21,Legend,Holiday World,"Santa Claus, Indiana",Custom Coasters Int.,2000,2023
+22,Lightning Racer,Hersheypark,"Hershey, Pennsylvania",Great Coasters Int.,2000,2023
+23,Flying Turns,Knoebels,"Elysburg, Pennsylvania",Fetterman,2014,2023
+24,Prowler,Worlds of Fun,"Kansas City, Missouri",Great Coasters Int.,2009,2023
+25,Comet,Six Flags Great Escape,"Queensbury, New York",PTC/Shmeck,1994,2023
+26,Raven,Holiday World,"Santa Claus, Indiana",Custom Coasters Int.,1995,2023
+27-tie,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,2023
+27-tie,Twister,Knoebels,"Elysburg, Pennsylvania",Fetterman,1999,2023
+29,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, California",Prior & Church/Looff,1924,2023
+30-tie,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",The Gravity Group/M&V,2007,2023
+30-tie,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Columbia",Phare,1958,2023
+32,Goliath,Six Flags Great America,"Gurnee, Illinois",Rocky Mountain Const.,2014,2023
+33,Texas Stingray,SeaWorld San Antonio,"San Antonio, Texas",Great Coasters Int.,2020,2023
+34,White Lightning,Fun Spot America,"Orlando, Florida",Great Coasters Int.,2013,2023
+35,Rampage,Alabama Adventure,"Bessemer, Alabama",Custom Coasters Int.,1998,2023
+36,Cú Chulainn,Emerald Park,"Ashbourne, Ireland",The Gravity Group,2015,2023
+37,Renegade,Valleyfair,"Shakopee, Minnesota",Great Coasters Int.,2007,2023
+38,T Express,Everland,"Youjin-si, South Korea",Intamin,2008,2023
+39,Boss,Six Flags St. Louis,"Eureka, Missouri",Custom Coasters Int.,2000,2023
+40,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Missouri",PTC/Allen,1976,2023
+41,Racer,Kennywood,"West Mifflin, Pennsylvania",Miller,1927,2023
+42-tie,Cornball Express,Indiana Beach,"Monticello, Indiana",Custom Coasters Int.,1999,2023
+42-tie,Grizzly,Kings Dominion,"Doswell, Virginia",KECO,1982,2023
+44,Hades 360,Mount Olympus,"Wisconsin Dells, Wisconsin",The Gravity Group,2005,2023
+45-tie,InvadR,Busch Gardens Williamsburg,"Williamsburg, Virginia",Great Coasters Int.,2017,2023
+45-tie,Viper,Six Flags Great America,"Gurnee, Illinois",Starkey,1995,2023
+47,Wicker Man,Alton Towers,"Staffordshire, England",Great Coasters Int.,2018,2023
+48,Zippin Pippin,Bay Beach,"Green Bay, Wisconsin",M&V,2011,2023
+49,Comet,Hersheypark,"Hershey, Pennsylvania",PTC/Shmeck,1946,2023
+50,Switchback,ZDTs,"Seguin, Texas",The Gravity Group,2015,2023
+1,Fury 325,Carowinds,"Charlotte, North Carolina",B&M,2015,2021
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,2021
+3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain,2018,2021
+4,Superman The Ride,Six Flags New England,"Agawam, Massachusetts",Intamin,2000,2021
+5,Candymonium,Hersheypark,"Hershey, Pennsylvania",B&M,2020,2021
+6,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,2021
+7,Lightning Rod,Dollywood,"Pigeon Forge, Tennessee",Rocky Mountain,2016,2021
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,2021
+9,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,2021
+10,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,2021
+11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1999,2021
+12,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain,2013,2021
+13,Intimidator 305,Kings Dominion,"Doswell, Virginia",Intamin,2010,2021
+14,Nitro,Six Flags Great Adventure,"Jackson, New Jersey",B&M,2001,2021
+15,Phantom’s Revenge,Kennywood,"West Mifflin, Pennsylvania",Morgan/Arrow,2001,2021
+16,Twisted Colossus,Six Flags Magic Mountain,"Valencia, California",Rocky Mountain,2015,2021
+17,Mako,SeaWorld Orlando,"Orlando, Florida",B&M,2016,2021
+18,Jurassic World VelociCoaster,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2021,2021
+19,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,2021
+20,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,2021
+21,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Virginia",B&M,1997,2021
+22,Montu,Busch Gardens Tampa,"Tampa, Florida",B&M,1996,2021
+23 tie,Intimidator,Carowinds,"Charlotte, North Carolina",B&M,2010,2021
+23 tie,Steel Curtain,Kennywood,"West Mifflin, Pennsylvania",S&S,2019,2021
+25,Mind Bender,Six Flags Over Georgia,"Austell, Georgia",Schwarzkopf,1978,2021
+26 tie,Time Traveler,Silver Dollar City,"Branson, Missouri",Mack,2018,2021
+26 tie,X2,Six Flags Magic Mountain,"Valencia, California",Arrow,2002,2021
+28 tie,Goliath,Six Flags Over Georgia,"Austell, Georgia",B&M,2006,2021
+28 tie,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,2021
+30,Blue Fire Megacoaster,Europa-Park,"Rust, Germany",Mack,2009,2021
+31,Orion,Kings Island,"Mason, Ohio",B&M,2020,2021
+32,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,2021
+33 tie,Hagrid’s Magical Creatures Motorbike Adventure,Universal’s Islands of Adventure,"Orlando, Florida",Intamin,2019,2021
+33 tie,Skyrush,Hersheypark,"Hershey, Pennsylvania",Intamin,2012,2021
+35,Steel Dragon 2000,Nagashima Spa Land,"Nagashima, Japan",Morgan,2000,2021
+36,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,2021
+37,Banshee,Kings Island,"Mason, Ohio",B&M,2014,2021
+38,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,2021
+39,Twisted Timbers,Kings Dominion,"Doswell, Virginia",Rocky Mountain,2018,2021
+40,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,2021
+41,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Florida",Intamin,2011,2021
+42 tie,Black Mamba,Phantasialand,"Brϋhl, Germany",B&M,2006,2021
+42 tie,Wicked Cyclone,Six Flags New England,"Agawam, Massachusetts",Rocky Mountain,2015,2021
+44,Raging Bull,Six Flags Great America,"Gurnee, Illinois",B&M,1999,2021
+45,Steel Force,Dorney Park,"Allentown, Pennsylvania",Morgan,1997,2021
+46,Jetline,Gröna Lund,"Stockholm, Sweden",Schwarzkopf,1988,2021
+47,Shock Wave,Six Flags Over Texas,"Arlington, Texas",Schwarzkopf,1978,2021
+48 tie,Cannibal,Lagoon,"Farmington, Utah",ART Engineering,2015,2021
+48 tie,Raptor,Cedar Point,"Sandusky, Ohio",B&M,1994,2021
+50,Lisebergbanan,Liseberg,"Gothenburg, Sweden",Schwarzkopf,1987,2021
+1,Phoenix,Knoebels,"Elysburg, Pa.",Dinn-PTC/Schmeck,,2019
+2,Voyage,Holiday World,"Santa Claus, Ind.",The Gravity Group,,2019
+3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,,2019
+4,BoulderDash,Lake Compounce,"Bristol, Conn.",Custom Coasters,,2019
+5,Beast,Kings Island,"Mason, Ohio",KECO,,2019
+6,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",Custom Coasters,,2019
+7,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,,2019
+8,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,,2019
+9,Ravine Flyer 2,Waldameer,"Erie, Pa.",The Gravity Group,,2019
+10,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,,2019
+11,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,,2019
+12,Gold Striker,California’s Great America,"Santa Clara, Calif.",Great Coasters Int.,,2019
+13,Balder,Liseberg,"Gothenburg, Sweden",Intamin,,2019
+14,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,,2019
+15,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,,2019
+16,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,,2019
+17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,,2019
+18,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,,2019
+19,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,,2019
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",Miller,,2019
+21,Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,,2019
+22,White Lightning,Fun Spot,"Orlando, Fla.",Great Coasters Int.,,2019
+23,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,,2019
+24,Renegade,Valleyfair,"Shakopee, Minn.",Great Coasters Int.,,2019
+25,Troy,Toverland,"Sevenum, the Netherlands",Great Coasters Int.,,2019
+26,Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,,2019
+27,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,,2019
+28,Cyclone,Luna Park/Coney Island,"Brooklyn, N.Y.",Kennan/Baker,,2019
+29,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,,2019
+30,Colossos,Heide Park,"Soltau, Germany",Intamin,,2019
+31,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",The Gravity Group,,2019
+32,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",Phare,,2019
+33,Flying Turns,Knoebels,"Elysburg, Pa.",Fetterman,,2019
+34,Rampage,Alabama Adventure,"Bessemer, Ala.",Custom Coasters,,2019
+35,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",The Gravity Group,,2019
+36,Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,,2019
+37,T Express,Everland,"Yonjin-si, South Korea",Intamin,,2019
+38,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,,2019
+39,American Thunder,Six Flags Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,,2019
+40,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",Vettel /NAD,,2019
+41,InvadR,Busch Gardens Williamsburg,"Williamsburg, Va.",Great Coasters Int.,,2019
+42,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",PTC/Allen,,2019
+43,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",The Gravity Group,,2019
+44,Megafobia,Oakwood,"Pembrokeshire, Wales",Custom Coasters,,2019
+45 tie,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",L.A. Thompson S. R. Co.,,2019
+45 tie,Twister,Knoebels,"Elysburg, Pa.",Fetterman,,2019
+47,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",Great Coasters Int.,,2019
+48,Twister,Gröna Lund,"Stockholm, Sweden",The Gravity Group,,2019
+49,Switchback,ZDTs,"Seguin, Texas",The Gravity Group,,2019
+50,Grizzly,Kings Dominion,"Doswell, Va.",Taft,,2019
+1,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",PTC/Schmeck-Dinn,1985,2018
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,2018
+3,Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,2018
+4,BoulderDash,Lake Compounce,"Bristol, Conn.",Custom Coasters,2000,2018
+5,Beast,Kings Island,"Mason, Ohio",KECO,1979,2018
+6,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,2016,2018
+7,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,2018
+8,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,2018
+9,Gold Striker,Califoria’s Great America,"Santa Clara, Calif.",Great Coasters Int.,2013,2018
+10,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,2004,2018
+11,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,2018
+12,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,2000,2018
+13,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",Custom Coasters,1998,2018
+14,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,2018
+15,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,1968,2018
+16,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,2018
+17,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,2016,2018
+18,Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,1995,2018
+19,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,2014,2018
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",Miller,1920,2018
+21 – tie,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,1924,2018
+21 – tie,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,1998,2018
+23,Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,2000,2018
+24,White Lightning,Fun Spot,"Orlando, Fla.",Great Coasters Int.,2013,2018
+25,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,2018
+26,Renegade,Valleyfair,"Shakopee, Minn.",Great Coasters Int.,2007,2018
+27,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",Gravity Group,2015,2018
+28,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,2018
+29,Cyclone,Luna Park/Coney Island,"Brooklyn, N.Y.",Keenan/Baker,1927,2018
+30 – tie,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,2009,2018
+30 – tie,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",Custom Coasters,1998,2018
+32,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,1994,2018
+33,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",M&V/Gravity Group,2007,2018
+34,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",Knoebels,2013,2018
+35,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",L.A. Thompson,1914,2018
+36,Switchback,ZDTs,"Seguin, Texas",Gravity Group,2015,2018
+37,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",Vettel/NAD,1938,2018
+38 – tie,American Thunder,Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,2008,2018
+38 – tie,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",Allen/PTC,1976,2018
+40,Grizzly,Kings Dominion,"Doswell, Va.",Summers-KECO,1982,2018
+41,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,1964,2018
+42,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",Phare,1959,2018
+43,Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,2000,2018
+44,Wild One,Six Flags America,"Upper Marlboro, Md.",PTC/Miller/Dinn,1986,2018
+45,T Express,Everland,"Yonjin-si, South Korea",Intamin,2008,2018
+46,Megafobia,Oakwood,"Pembrookshire, Wales",Custom Coasters,1996,2018
+47,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",Gravity Group,2005,2018
+48,Mine Blower,Fun Spot,"Kissimmee, Fla.",Gravity Group,2017,2018
+49,Wooden Warrior,Quassy Amusement Park,"Meddlebury, Conn.",Gravity Group,2011,2018
+50,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",Fetterman/Knoebels,1999,2018
+1,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2009,2017
+2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn-PTC/Schmeck,1985,2017
+3,Boulder Dash,Lake Compounce,"Bristol, Conn.",Custom Coasters,2000,2017
+4,Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,2017
+5,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,2016,2017
+6,Beast,Kings Island,"Mason, Ohio",KECO,1979,2017
+7,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,2017
+8,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,2004,2017
+9,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,2017
+10,Gold Striker,California’s Great America,"Santa Clara, Calif.",Great Coasters Int.,2013,2017
+11,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,2017
+12,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,2000,2017
+13,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,2014,2017
+14,Boardwalk Bullet,Kemah Boardwalk,Kemah Boardwalk,M&V/Gravity Group,2007,2017
+15,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,2017
+16,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,2017
+17,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,1968,2017
+18-tie,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",Custom Coasters,1998,2017
+18-tie,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,2017
+18-tie,White Lightning,Fun Spot America,"Orlando, Fla.",Great Coasters Int.,2013,2017
+21,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",Custom Coasters,1998,2017
+22,Cyclone,Luna Park,"Brooklyn, N.Y.",Keenan/Baker,1927,2017
+23,Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,1995,2017
+24,Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,2000,2017
+25,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,1998,2017
+26,Jack Rabbit,Kennywood,"West Mifflin, Pa.",PTC/Miller,1920,2017
+27,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,2009,2017
+28,Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,2000,2017
+29,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,2016,2017
+30,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",Gravity Group,2015,2017
+31,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,1924,2017
+32,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,1994,2017
+33,Switchback,ZDT’s,"Seguin, Texas",Gravity Group,2015,2017
+34,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,2017
+35,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",Fetterman/Knoebels,1999,2017
+36,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England","Wright, Blackpool",1958,2017
+37,Blue Streak,Conneaut Lake,"Conneaut Lake, Pa.",Vettel,1964,2017
+38,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",Gravity Group,1995,2017
+39,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",Phare,1958,2017
+40,American Thunder,Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,2009,2017
+41,El Toro,Freitzeitpark Plohn,"Legendfeld, Germany",Great Coasters Int.,2006,2017
+42,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,1964,2017
+43,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",PTC/Allen,1976,2017
+44,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",Knoebels,2013,2017
+45,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",Gravity Group,2011,2017
+46,Grizzly (KD),Kings Dominion,"Doswell, Va.",,1982,2017
+47,Tremors,Silverwood,"Athol, Idaho",Custom Coasters,1999,2017
+48,Grand National,Blackpool Pleasure Beach,"Blackpool, England",Paige,1935,2017
+49,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",Great Coasters Int.,2006,2017
+50,Twister,Gröna Lund,"Stockholm, Sweden",Gravity Group,2011,2017
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,2016
+2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn-PTC/Schmeck,2016
+3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,2016
+4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2016
+5,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2016
+6,The Beast,Kings Island,"Mason, Ohio",1979,KECO,2016
+7,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,2016
+8,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,2016
+9,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,2016
+10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,2016
+11,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",2016,Rocky Mountain,2016
+12,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2016
+13,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,2016
+14,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,2016
+15,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,2016
+16,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,2016
+17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2016
+18,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2016
+19,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,2016
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,2016
+21,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2016
+22,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,2016
+23,Wodan,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,2016
+24,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,2016
+25 tie,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,2016
+25 tie,El Toro,Freitzeitpark Plohn,"Legendfeld, Germany",2009,Great Coasters Int.,2016
+27,Cyclone,Luna Park,"Brooklyn, N.Y.",1927,Keenan/Baker,2016
+28,Wildfire,Kolmården,"Norrköping, Sweden",2016,Rocky Mountain,2016
+29,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",1998,Custom Coasters,2016
+30,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",1958,Phare,2016
+31,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,2016
+32,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,"Wright, Blackpool",2016
+33,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,2016
+34,White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,2016
+35,Megafobia,Oakwood Leisure Park,"Pembrokeshire, Wales",1996,Custom Coasters,2016
+36,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",1995,Gravity Group,2016
+37,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,2016
+38,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2016
+39,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",1976,PTC/Allen,2016
+40,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,2016
+41,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,2016
+42,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,2016
+43,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,2016
+44,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,2016
+45,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,2016
+46,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,2016
+47,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,2016
+48,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,2016
+49,Wood Coaster,Knight Valley,"Shenzhen, China",2011,Great Coasters Int.,2016
+50,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/The Gravity Group,2016
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,2015
+2,El Toro,Six Flags Great Adventure,"Jackson,N.J.",2006,Intamin,2015
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn – PTC/Schmeck,2015
+4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2015
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,2015
+6,The Beast,Kings Island,"Mason, Ohio",1979,KECO,2015
+7,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2015
+8,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,2015
+9,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,2015
+10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,2015
+11,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2015
+12,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,2015
+13,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2015
+14,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,2015
+15,Thunderbolt,Kennywood,"West Mifflin, Pa",1927,Vettel/Miller,2015
+16,Cyclone,Luna Park/Coney Island,"Brookyn, N.Y.",1927,Keenan/Baker,2015
+17,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,2015
+18,Troy,Toverland,"Sevenum, the Netherlands",2007,Great Coasters Int.,2015
+19,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",2015,Gravity Group,2015
+20,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,2015
+21 (tie),Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,2015
+21 (tie),Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,2015
+23,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2015
+24,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,2015
+25,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,2015
+26,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,"Wright, Blackpool",2015
+27,Megafobia,Oakwood,"Pembrokeshire, Wales",1996,Custom Coasters,2015
+28,Rampage,Alabama’s Splash Adventure,"Bessemer, Ala.",1998,Custom Coasters,2015
+29,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,2015
+30,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1959,Phare,2015
+31,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",2005,Gravity Group,2015
+32,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,2015
+33,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,2015
+34,Grand National,Blackpool Pleasure Beach,"Blackpool, England",1935,Paige,2015
+35 (tie),Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,2015
+35 (tie),Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2015
+37,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,Great Coasters Int.,2015
+38,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,2015
+39,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,2015
+40,White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,2015
+41,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,2015
+42,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,2015
+43,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2015
+44,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,2015
+45 (tie),Comet,Hersheypark,"Hershey, Pa.",1946,PTC/Schmeck,2015
+45 (tie),Zippin Pippin,Bay Beach,"Green Bay, Wis.",2011,M&V,2015
+47,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,2015
+48 (tie),Big Dipper,Blackpool Pleasure Beach,"Blackpool, England",1923,PTC/Miller,2015
+48 (tie),Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,Custom Coasters,2015
+50,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,2015
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,Custom Coasters,2014
+2,El Toro,Six Flags Great Adventure,"Jackson,N.J.",2006,Intamin,2014
+3,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2014
+4,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn – PTC/Schmeck,2014
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,Great Coasters Int.,2014
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2014
+7,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,Great Coasters Int.,2014
+8,The Beast,Kings Island,"Mason, Ohio",1979,KECO,2014
+9,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,2014
+10,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2014
+11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,Great Coasters Int.,2014
+12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,Great Coasters Int.,2014
+13,The Raven,Holiday World,"Santa Claus, Ind.",1995,Custom Coasters,2014
+14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2014
+15,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,Custom Coasters,2014
+16,Troy,Toverland,"Sevenum, Netherlands",2007,Great Coasters Int.,2014
+17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2014
+18,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC/Schmeck,2014
+19,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC/Miller,2014
+20,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,Great Coasters Int.,2014
+21,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,Great Coasters Int.,2014
+22,Cyclone,Luna Park/Coney Island,"Brooklyn, N.Y.",1927,Kenan/Baker,2014
+23,Goliath,Six Flags Great America,"Gurnee, Ill.",2014,Rocky Mountain,2014
+24,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2014
+25,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",2013,Knoebels,2014
+26,Hades 360,Mount Olympus,"Wisconsin Dells, Wis.",2005,Gravity Group,2014
+27,The Legend,Holiday World,"Santa Claus, Ind.",2000,Custom Coasters,2014
+28,Wooden Warrior,Quassy Park,"Middlebury, Conn.",2011,Gravity Group,2014
+29,El Toro,Freizeitpark Plohn,"Lengenfeldl, Germany",2009,Great Coasters Int.,2014
+30,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2014
+31,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2009,Great Coasters Int.,2014
+32,Grand National,Blackpool Pleasure Beach,"Blackpool, England",1935,Paige,2014
+33,Megafobia,Oakwood Leisure Park,"Pembrokeshire, Wales",1996,Custom Coasters,2014
+34,Tremors,Silverwood,"Athol, Idaho",1999,Custom Coasters,2014
+35 (tie),Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC/Hoover,2014
+35 (tie),Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2014
+37,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1959,Phare,2014
+38 (tie),Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,Great Coasters Int.,2014
+38 (tie),White Lightning,Fun Spot America,"Orlando, Fla.",2013,Great Coasters Int.,2014
+40,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,2014
+41,Rutschebanen,Tivoli Gardens,"Copenhagen, Denmark",1914,Thompson,2014
+42,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC/Miller,2014
+43,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England",1958,Wright/Blackpool,2014
+44,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,Custom Coasters,2014
+45,Colossus,Six Flags Magic Mountain,"Valencia, Calif.",1978,IAD,2014
+46,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,Custom Coasters,2014
+47,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,2014
+48,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,Custom Coasters,2014
+49,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,2014
+50,Wood Coaster,Knight Valley,"Shenzhen, China",2011,Great Coasters Int.,2014
+1,Bouder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,2013
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,2013
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,2013
+4,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2013
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,2013
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2013
+7,Outlaw Run,Silver Dollar City,"Branson, Mo.",2013,Rocky Mountain,2013
+8,The Beast,Kings Island,"Mason, Ohio",1979,KECO,2013
+9,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,2013
+10,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,2013
+11,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,2013
+12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,2013
+13,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2013
+14,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,2013
+15,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2013
+16,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC – Schmeck,2013
+17,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2013
+18,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,2013
+19 (tie),Cyclone,Luna Park (Coney Island),"Brooklyn, N.Y.",1927,Keenan/Baker,2013
+19 (tie),The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,2013
+21,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,2013
+22,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2013
+23,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,2013
+24,Tremors,Silverwood,"Athol, Idaho",1999,CCI,2013
+25,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,2013
+26,Gold Striker,California’s Great America,"Santa Clara, Calif.",2013,GCII,2013
+27,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC – Hoover,2013
+28,Troy,Toverland,"Sevenum, Netherlands",2007,GCII,2013
+29,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,2013
+30,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C., Canada",1958,Phare,2013
+31,Wodan Timbur Coaster,Europa-Park,"Rust, Germany",2012,GCII,2013
+32,Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,2013
+33,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2013
+34,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2013
+35,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC – Miller,2013
+36,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,2013
+37,Zippin Pippin,Bay Beach Amusement Park,"Green Bay, Wis.",2011,M&V,2013
+38,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,2013
+39,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,2013
+40,Megafobia,Oakwood,"Pembrokeshire, Wales",1996,CCI,2013
+41 (tie),Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,2013
+41 (tie),T Express,Everland,"Yongin-si, South Korea",2008,Intamin,2013
+43,Great American Scream Machine,Six Flags Over Georgia,"Austell, Ga.",1973,PTC – Allen,2013
+44 (tie),Tonnerre de Zeus,Parc Astérix,"Plailly, France",1997,CCI,2013
+44 (tie),Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey – Six Flags,2013
+46 (tie),HellCat,Timber Falls,"Wisconsin Dells, Wis.",2004,S & S,2013
+46 (tie),Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,2013
+48,Cyclone,Lakeside Park,"Denver, Colo.",1940,Vettel,2013
+49,Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,2013
+50,Yankee Cannonball,Canobie Lake Park,"Salem, N.H.",1936,PTC – Schmeck,2013
+1,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,2012
+2,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2012
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,2012
+4,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,2012
+5,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,2012
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2012
+7,The Beast,Kings Island,"Mason, Ohio",1979,KECO,2012
+8,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,2012
+9,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,2012
+10,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2012
+11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,2012
+12,Hades,Mount Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,2012
+13,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,2012
+14,Cyclone,Coney Island/Luna Park,"Brooklyn, N.Y.",1927,Kenan/Baker,2012
+15,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2012
+16,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,2012
+17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2012
+18,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,2012
+19,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2012
+20,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC – Schmeck,2012
+21,Tremors,Silverwood,"Athol, Idaho",1999,CCI,2012
+22,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,2012
+23,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,2012
+24,Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,2012
+25,Troy,Toverland,"Sevenum, the Netherlands",2007,GCII,2012
+26,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,2012
+27,Megafobia,Oakwood,"Pembrokshire, Wales",1996,CCI,2012
+28,Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,2012
+29,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",1958,Phare,2012
+30,Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,2012
+31,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,2012
+32,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,2012
+33,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,2012
+34,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,2012
+35,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,2012
+36,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S & S,2012
+37,Tonnerre de Zeus,Park Astérix,"Plailly, France",1997,CCII,2012
+38,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC – Hoover,2012
+39 (tie),Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2012
+39 (tie),Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,2012
+41,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",ca. 1914,LaMarcus Thompson,2012
+42 (tie),The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,2012
+42 (tie),Racer,Kennywood,"West Mifflin, Pa.",1927,PTC – Miller,2012
+44,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2012
+45,Mean Streak,Cedar Point,"Sandusky, Ohio",1991,Dinn-Summers,2012
+46 (tie),T Express,Everland,"Yonjin-si, South Korea",2008,Intamin,2012
+46 (tie),Timber Terror,Silverwood,"Athol, Idaho",1996,CCI,2012
+48,Great American Scream Machine,Six Flags Over Georgia,"Austell, Ga.",1973,PTC – Allen,2012
+49,Wild Mouse,"Pleasure Beach, Blackpool","Blackpool, England",1958,Wright,2012
+50,Renegade,Valleyfair!,"Shakopee, Minn.",2007,GCII,2012
+1,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2011
+2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,2011
+3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,2011
+4,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,2011
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,2011
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2011
+7,The Beast,Kings Island,"Kings Mills, Ohio",1979,KECO,2011
+8,Hades,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,2011
+9,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,2011
+10,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,2011
+11,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,2011
+12,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,2011
+13,Balder,Liseberg,"Gothenburg, Sweden",2003,Intamin,2011
+14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2011
+15,Cyclone,Coney Island/Luna Park,"Brooklyn, N.Y.",1927,Keenan/Baker,2011
+16,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,2011
+17,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2011
+18,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,2011
+19,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC-Schmeck,2011
+20 (tie),Megafobia,Oakwood Theme Park,"Pembrokshire, Wales",1996,CCI,2011
+20 (tie),Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman-Knoebels,2011
+22,American Thunder,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,2011
+23,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1920,PTC – Miller,2011
+24,Cornball Express,Indiana Beach,"Monticello, Ind.",2004,CCI,2011
+25,Grand National,"Pleasure Beach, Blackpool","Blackpool, England",1935,Paige,2011
+26,Renegade,Valleyfair,"Shakopee, Minn.",2007,GCII,2011
+27,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,2011
+28,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2011
+29,Colossos,Heide-Park,"Soltau, Germany",2001,Intamin,2011
+30,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,2011
+31,Tremors,Silverwood,"Athol, Idaho",1999,CCI,2011
+32,Rampage,Alabama Adventure,"Bessemer, Ala.",1998,CCI,2011
+33,Troy,Toverland,"Sevenum, The Netherlands",2007,GCII,2011
+34,Playland Wooden Coaster,Playland at the PNE,"Vancouver, B.C. Canada",1958,Phare,2011
+35,El Toro,Freizeitpark Plohn,"Lengenfeld, Germany",2009,GCII,2011
+36 (tie),Apocalypse,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,2011
+36 (tie),Twister,Gröna Lund,"Stockholm, Sweden",2011,Gravity Group,2011
+38,Thunderbird,PowerLand,"Alahärmä, Finland",2006,GCII,2011
+39,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,2011
+40,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",2011,Gravity Group,2011
+41,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,2011
+42,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,2011
+43,Racer,Kennywood,"West Mifflin, Pa.",1927,Miller,2011
+44 (tie),Wild Mouse,"Pleasure Beach, Blackpool","Blackpool, England",1958,Wright,2011
+44 (tie),Zippin Pippin,Bay Beach Amusement Park,"Green Bay, Wis.",2011,M&V/Gravity Group,2011
+46,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",1938,Vettel,2011
+47,Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",1992,Pierce,2011
+48,Rutschebanen,Tivoli Gardens,"Copenhagen, Denmark",ca. 1915,unknown,2011
+49,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC-Hoover,2011
+50,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,CCI,2011
+1,The Voyage,Holiday World,"Santa Claus, Ind.",2006,Gravity Group,2010
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",2006,Intamin,2010
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",1985,Dinn/PTC-Schmeck,2010
+4,Boulder Dash,Lake Compounce,"Bristol, Conn.",2000,CCI,2010
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",2004,GCII,2010
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",2008,Gravity Group,2010
+7,The Beast,Kings Island,"Kings Mills, Ohio",1979,KECO,2010
+8,Hades,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",2005,Gravity Group,2010
+9,The Raven,Holiday World,"Santa Claus, Ind.",1995,CCI,2010
+10,Lightning Racer,Hersheypark,"Hershey, Pa.",2000,GCII,2010
+11,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",1998,CCI,2010
+12,Prowler,Worlds of Fun,"Kansas City, Mo.",2009,GCII,2010
+13,Cyclone,Coney Island,"Brooklyn, N.Y.",1927,Keenan/Baker,2010
+14,Thunderbolt,Kennywood,"West Mifflin, Pa.",1968,Vettel/Miller,2010
+15,The Legend,Holiday World,"Santa Claus, Ind.",2000,CCI,2010
+16,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",2006,GCII,2010
+17,Comet,The Great Escape,"Lake George, N.Y.",1994,PTC-Schmeck,2010
+18,Colossos,Heide Park,"Soltau, Germany",2001,Intamin,2010
+19,Hellcat,Timber Falls,"Wisconsin Dells, Wis.",2004,S&S,2010
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",1921,PTC – Miller,2010
+21,Balder,Liseberg,"Stockholm, Sweden",2003,Intamin,2010
+22,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",1924,Prior & Church/Looff,2010
+23,Evel Knievel,Six Flags St. Louis,"Eureka, Mo.",2008,GCII,2010
+24,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",1998,CCI,2010
+25,Tremors,Silverwood,"Athol, Idaho",1999,CCI,2010
+26,Coaster,Playland at the PNE,"Vancouver, B.C. Canada",1958,Phare,2010
+27,Terminator Salvation: The Ride,Six Flags Magic Mountain,"Valencia, Calif.",2009,GCII,2010
+28,Grand National,Pleasure Beach Blackpool,"Blackpool, England",1935,Paige,2010
+29,Cornball Express,Indiana Beach,"Monticello, Ind.",2001,CCI,2010
+30,Megafobia,Oakwood Leisure Park,"Pembrokshire, Wales",1996,CCI,2010
+31,The Boss,Six Flags St. Louis,"Eureka, Mo.",2000,CCI,2010
+32,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",1999,Fetterman/Knoebels,2010
+33,Rampage,Alabama Adventure,"Bessemer, Ala.",1998,CCI,2010
+34,Viper,Six Flags Great America,"Gurnee, Ill.",1995,Starkey/Six Flags,2010
+35,Racer,Kennywood,"West Mifflin, Pa.",1927,PTC-Miller,2010
+36,T Express,Everland,"Yongin-si, South Korea",2008,Intamin,2010
+37,Thunderbird,PowerPark,"Alaharma, Finland",2006,GCII,2010
+38,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",2007,M&V/Gravity Group,2010
+39,Hurricane,Boomers,"Dania Beach, Fla.",2000,Coaster Works,2010
+40,Tonnerre de Zeus,Parc Asterix,"Plailly, France",1997,CCI,2010
+41,Troy,Toverland,"Sevenum, The Netherlands",2007,GCII,2010
+42 (tie),Aska,Nara Dreamland,"Nara, Japan",1998,Intamin,2010
+42 (tie),Renegade,Valleyfair!,"Shakopee, Minn.",2007,GCII,2010
+44,Timber Terror,Silverwood,"Athol, Idaho",1996,CCI,2010
+45,Grizzly,Kings Dominion,"Doswell, Va.",1982,KECO-Summers,2010
+46,Gwazi,Busch Gardens Tampa,"Tampa Bay, Fla.",1999,GCII,2010
+47,Blue Streak,Cedar Point,"Sandusky, Ohio",1964,PTC-Hoover,2010
+47,Georgia Cyclone,Six Flags Over Georgia,"Atlanta, Ga.",1990,Dinn-Summers,2010
+49,Giant Dipper,Belmont Park,"San Diego, Calif.",1925,Prior & Church,2010
+50,Cyclone,Lakeside Park,"Denver, Colo.",1940,Vettel,2010
