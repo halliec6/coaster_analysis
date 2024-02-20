@@ -1,5 +1,5 @@
 #I am working to balance the data in this file
-
+#first I am trying this using SMOTE, then I am looking at the confusion matricies of the most accurate algorithms
 
 from pandas import read_csv
 from pandas.plotting import scatter_matrix
@@ -25,7 +25,7 @@ import pandas as pd
 import seaborn as sns
 import imblearn
 from imblearn.over_sampling import SVMSMOTE
-from numpy import where
+from numpy import mean
 from collections import Counter
 # Read the data
 data = pd.read_csv("clean_total.csv")
@@ -49,29 +49,44 @@ print("Y after: ", Counter(y))
 
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1, shuffle=True)
 # Spot Check Algorithms
-models = []
-models.append(('LR', LogisticRegression(solver='liblinear', multi_class='ovr')))
-models.append(('LDA', LinearDiscriminantAnalysis()))
-models.append(('KNN', KNeighborsClassifier()))
-models.append(('CART', DecisionTreeClassifier()))
-models.append(('NB', GaussianNB()))
-models.append(('SVM', SVC(gamma='auto')))
-# evaluate each model in turn
-results = []
-names = []
-for name, model in models:
-    kfold = StratifiedKFold(n_splits=10, random_state=1, shuffle=True)
-    cv_results = cross_val_score(model, X_train, Y_train, cv=kfold,
-     scoring='accuracy')
-    results.append(cv_results)
-    names.append(name)
-    cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
+# models = []
+# models.append(('LR', LogisticRegression(solver='liblinear', multi_class='ovr')))
+# models.append(('LDA', LinearDiscriminantAnalysis()))
+# models.append(('KNN', KNeighborsClassifier()))
+# models.append(('CART', DecisionTreeClassifier()))
+# models.append(('NB', GaussianNB()))
+# models.append(('SVM', SVC(gamma='auto')))
+# # evaluate each model in turn
+# results = []
+# names = []
+# for name, model in models:
+#     kfold = StratifiedKFold(n_splits=10, random_state=1, shuffle=True)
+#     cv_results = cross_val_score(model, X_train, Y_train, cv=kfold,
+#      scoring='accuracy')
+#     results.append(cv_results)
+#     names.append(name)
+#     cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
 
-    scores = cross_val_score(model, X, y, scoring='roc_auc', cv=cv, n_jobs=-1)
-    print('\n%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
-    print('Mean ROC AUC: %.3f' % mean(scores))
+#     scores = cross_val_score(model, X, y, scoring='roc_auc', cv=cv, n_jobs=-1)
+#     print('\n%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
+#     print('Mean ROC AUC: %.3f' % mean(scores))
 
-# Compare Algorithms
-plt.boxplot(results, labels=names)
-plt.title('Algorithm Comparison')
-plt.show()
+# # Compare Algorithms
+# plt.boxplot(results, labels=names)
+# plt.title('Algorithm Comparison')
+# plt.show()
+
+# Make predictions on validation dataset
+#model = LogisticRegression(solver='liblinear', multi_class='ovr')
+model = DecisionTreeClassifier()
+model.fit(X_train, Y_train)
+predictions = model.predict(X_validation)
+# Evaluate predictions
+cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
+# evaluate model
+scores = cross_val_score(model, X, y, scoring='roc_auc', cv=cv, n_jobs=-1)
+# summarize performance
+print('Mean ROC AUC: %.3f' % mean(scores))
+print("accuracy_score\n", accuracy_score(Y_validation, predictions))
+print("confustion matrix \n",confusion_matrix(Y_validation, predictions))
+print("classification_report\n",classification_report(Y_validation, predictions))
