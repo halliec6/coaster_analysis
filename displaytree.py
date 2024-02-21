@@ -1,5 +1,8 @@
 #the goal of this file is to display the decision tree 
 #using this example https://mljar.com/blog/visualize-decision-tree/https://mljar.com/blog/visualize-decision-tree/
+
+#explore additional visuals for trees
+
 from matplotlib import pyplot as plt
 from sklearn import datasets
 from sklearn.tree import DecisionTreeClassifier 
@@ -25,7 +28,7 @@ from imblearn.over_sampling import SVMSMOTE
 from collections import Counter
 import graphviz
 import numpy as np
-from dtreeviz.trees import dtreeviz 
+import dtreeviz 
 
 
 data = pd.read_csv("clean_total.csv")
@@ -46,7 +49,7 @@ print("Y after: ", Counter(y))
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1, shuffle=True)
 
 
-clf = DecisionTreeClassifier()
+clf = DecisionTreeClassifier(max_depth=4)
 model = clf.fit(X_train, Y_train)
 
 #this is bomb.com, make sure to edit the max depth for better visual
@@ -58,9 +61,10 @@ model = clf.fit(X_train, Y_train)
 #                    filled = True)
 # fig.savefig("decision_tree.png")
 
-viz = dtreeviz(clf, X, y,
+viz = dtreeviz.model(clf, X, y,
                 target_name="target",
                 feature_names=dataframe.columns[:-1],
                 class_names=list(np.unique(y).astype(str)))
+v = viz_model.view()
 
 viz.save("decision_tree.svg")
