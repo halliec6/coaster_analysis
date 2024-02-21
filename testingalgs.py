@@ -1,3 +1,5 @@
+#starting point before I realized the data was unbalanced 
+# follows tutorial in doc
 from pandas import read_csv
 from pandas.plotting import scatter_matrix
 from matplotlib import pyplot as plt
