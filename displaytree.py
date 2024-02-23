@@ -4,31 +4,26 @@
 #explore additional visuals for trees
 
 from matplotlib import pyplot as plt
-from sklearn import datasets
+
 from sklearn.tree import DecisionTreeClassifier 
 from sklearn import tree
-from pandas import read_csv
-from pandas.plotting import scatter_matrix
+
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import accuracy_score
+
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
+
+import pandas as pd
+
+
+
 import pandas as pd
 import seaborn as sns
-from sklearn.datasets import make_classification
-from sklearn.model_selection import RepeatedStratifiedKFold
-from numpy import mean
-import pandas as pd
-import seaborn as sns
-import imblearn
+
 from imblearn.over_sampling import SVMSMOTE
 from collections import Counter
-import graphviz
+
 import numpy as np
-import dtreeviz 
+
 
 
 data = pd.read_csv("clean_total.csv")
@@ -53,18 +48,14 @@ clf = DecisionTreeClassifier(max_depth=4)
 model = clf.fit(X_train, Y_train)
 
 #this is bomb.com, make sure to edit the max depth for better visual
-# fig = plt.figure(figsize=(100,100))
-# _ = tree.plot_tree(clf,
-#                 #    max_depth = 2,
-#                    feature_names = dataframe.columns[:-1],
-#                    class_names = np.unique(y).astype(str),
-#                    filled = True)
-# fig.savefig("decision_tree.png")
+fig = plt.figure(figsize=(100,100))
+_ = tree.plot_tree(clf,
+                #    max_depth = 2,
+                   feature_names = dataframe.columns[:-1],
+                   class_names = np.unique(y).astype(str),
+                   filled = True)
+fig.savefig("decision_tree.png")
 
-viz = dtreeviz.model(clf, X, y,
-                target_name="target",
-                feature_names=dataframe.columns[:-1],
-                class_names=list(np.unique(y).astype(str)))
-v = viz_model.view()
 
-viz.save("decision_tree.svg")
+
+
