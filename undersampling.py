@@ -2,25 +2,15 @@
 #make a heatmap of the confusion matrix
 
 #maybe run comparisons from balancing.py which is what makes the box plots for all of the different algorithms]
-from pandas import read_csv
-from pandas.plotting import scatter_matrix
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
-from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import SVC
 import pandas as pd
 import seaborn as sns
 from imblearn.under_sampling import RandomUnderSampler
-from numpy import mean
 from collections import Counter
 import seaborn as sns
 import matplotlib.pyplot as plt

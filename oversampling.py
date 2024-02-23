@@ -2,30 +2,19 @@
 #first I am trying this using SMOTE, then I am looking at the confusion matricies of the most accurate algorithms
 
 #TO DO: confusion matrix as a visual
-
-from pandas import read_csv
-from pandas.plotting import scatter_matrix
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
-from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import SVC
 import pandas as pd
 import seaborn as sns
-from sklearn.datasets import make_classification
 from sklearn.model_selection import RepeatedStratifiedKFold
 from numpy import mean
 import pandas as pd
 import seaborn as sns
-import imblearn
 from imblearn.over_sampling import SVMSMOTE
 from numpy import mean
 from collections import Counter
