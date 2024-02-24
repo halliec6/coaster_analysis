@@ -4,26 +4,16 @@
 #explore additional visuals for trees
 
 from matplotlib import pyplot as plt
-
 from sklearn.tree import DecisionTreeClassifier 
 from sklearn import tree
-
 from sklearn.model_selection import train_test_split
-
 from sklearn.tree import DecisionTreeClassifier
-
 import pandas as pd
-
-
-
 import pandas as pd
 import seaborn as sns
-
 from imblearn.over_sampling import SVMSMOTE
 from collections import Counter
-
 import numpy as np
-
 
 
 data = pd.read_csv("clean_total.csv")
