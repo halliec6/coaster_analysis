@@ -1,3 +1,6 @@
+#made correlation matrices for wood and steel to exxplore the
+#assosciations between the different factors
+
 import pandas as pd 
 import seaborn as sns
 import matplotlib.pyplot as plt 
