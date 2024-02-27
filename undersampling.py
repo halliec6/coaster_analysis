@@ -78,7 +78,7 @@ plt.boxplot(results, labels=names)
 plt.title('Undersampling: Algorithm Comparison')
 plt.show()
 
-model = DecisionTreeClassifier()
+model = LogisticRegression(solver='liblinear', multi_class='ovr')
 model.fit(X_train_under, Y_train_under)
 # Predictions on undersampled validation set
 predictions = model.predict(X_validation_under)
