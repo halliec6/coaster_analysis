@@ -39,13 +39,13 @@ print("Y after: ", Counter(y))
 # Create the decision tree classifier
 model = DecisionTreeClassifier()
 
-# Evaluate model using cross-validation
-cv_scores = cross_val_score(model, X, y, cv=10)  # You can adjust the number of folds as needed
-print("Cross-validation scores:", cv_scores)
-print("Mean cross-validation score:", mean(cv_scores))
-
 # Train-test split
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1, shuffle=True)
+
+# Evaluate model using cross-validation
+cv_scores = cross_val_score(model, X_train, Y_train, cv=10)  # You can adjust the number of folds as needed
+print("Cross-validation scores:", cv_scores)
+print("Mean cross-validation score:", mean(cv_scores))
 
 # Fit the model
 model.fit(X_train, Y_train)
