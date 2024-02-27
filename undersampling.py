@@ -7,13 +7,20 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
-from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 import seaborn as sns
 from imblearn.under_sampling import RandomUnderSampler
 from collections import Counter
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.naive_bayes import GaussianNB
+from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import cross_val_score
+from sklearn.svm import SVC
 
 
 # Read the data
@@ -44,15 +51,40 @@ X_validation_under, Y_validation_under = undersample_val.fit_resample(X_validati
 print("Class distribution of Y_validation_under:", Counter(Y_validation_under))
 
 # Model training
+# model = DecisionTreeClassifier()
+# model.fit(X_train_under, Y_train_under)
+
+# Spot Check Algorithms
+models = []
+models.append(('LR', LogisticRegression(solver='liblinear', multi_class='ovr')))
+models.append(('LDA', LinearDiscriminantAnalysis()))
+models.append(('KNN', KNeighborsClassifier()))
+models.append(('CART', DecisionTreeClassifier()))
+models.append(('NB', GaussianNB()))
+models.append(('SVM', SVC(gamma='auto')))
+
+#evaluate each model in turn
+results = []
+names = []
+for name, model in models:
+    kfold = StratifiedKFold(n_splits=10, random_state=1, shuffle=True)
+    cv_results = cross_val_score(model, X_train_under, Y_train_under, cv=kfold, scoring='accuracy')
+    results.append(cv_results)
+    names.append(name)
+    print('%s: %f (%f)' % (name, cv_results.mean(), cv_results.std()))
+
+# Compare Algorithms
+plt.boxplot(results, labels=names)
+plt.title('Undersampling: Algorithm Comparison')
+plt.show()
+
 model = DecisionTreeClassifier()
 model.fit(X_train_under, Y_train_under)
-
 # Predictions on undersampled validation set
 predictions = model.predict(X_validation_under)
 
 # Confusion matrix
 conf_matrix = confusion_matrix(Y_validation_under, predictions)
-
 
 # Plotting confusion matrix
 plt.figure(figsize=(8, 6))
