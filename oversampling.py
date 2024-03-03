@@ -1,7 +1,4 @@
-#I am working to balance the data in this file
-#first I am trying this using SMOTE, then I am looking at the confusion matricies of the most accurate algorithms
-
-#TO DO: confusion matrix as a visual
+#PURPOSE: Oversampling the dataset, visualizes confusion matrix w a heat map
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt

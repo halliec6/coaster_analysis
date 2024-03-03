@@ -10,7 +10,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 import pandas as pd
-import seaborn as sns
 from imblearn.over_sampling import SVMSMOTE
 from collections import Counter
 import numpy as np
@@ -33,18 +32,18 @@ print("Y after: ", Counter(y))
 
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, y, test_size=0.20, random_state=1, shuffle=True)
 
-
+# alter max_depth to determine how much of the tree is displayed
 clf = DecisionTreeClassifier(max_depth=4)
 model = clf.fit(X_train, Y_train)
 
-#this is bomb.com, make sure to edit the max depth for better visual
-fig = plt.figure(figsize=(100,100))
+fig = plt.figure(figsize=(10, 10))
 _ = tree.plot_tree(clf,
-                #    max_depth = 2,
-                   feature_names = dataframe.columns[:-1],
-                   class_names = np.unique(y).astype(str),
-                   filled = True)
-fig.savefig("decision_tree.png")
+                   max_depth=2,
+                   feature_names=dataframe.columns[:-1],
+                   class_names=np.unique(y).astype(str),
+                   filled=True,
+                   fontsize=10)  
+fig.savefig("decision_tree.png", bbox_inches='tight', dpi=300)  
 
 
 

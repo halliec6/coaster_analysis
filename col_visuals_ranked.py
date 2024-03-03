@@ -1,4 +1,4 @@
-#PURPOSE: making boxplots for features of ranked and unranked data
+#PURPOSE: making histograms for features of ranked data and histograms for unranked data
 from pandas import read_csv
 from pandas.plotting import scatter_matrix
 from matplotlib import pyplot as plt
