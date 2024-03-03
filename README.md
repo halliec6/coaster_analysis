@@ -26,14 +26,17 @@ Welcome to Felicia Patel & Hallie Christopherson’s Roller Coaster Analysis Rep
 5. **Combine_tables.py**
    - Combines rank and `data.csv` set to make one `total_ranks` dataset
 
-6. **Displaytree.py**
+6. **Correlation.py**
+   - Creates a correlation matrix to analyze the realtionships between the factors we are studying
+
+7. **Displaytree.py**
    - Generates the decision tree display
 
-7. **mixSampling.py**
+8. **mixSampling.py**
    - Applies both oversampling and undersampling on the dataset
    - Visualizes confusion matrix with a heatmap
 
-8. **Oversampling.py**
+9. **Oversampling.py**
    - Oversamples the dataset
    - Visualizes confusion matrix with a heatmap
 
