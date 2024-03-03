@@ -1,6 +1,7 @@
 #this file is created using the tutorial for testing at
 #https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-#I am applying the clean_total with the goal of analyzing which algorithms
+
+#PURPOSE: applying tutorial to clean_total.csv with the goal of analyzing which algorithms
 #are most successful at predicting whether or not a coaster is ranked
 
 
@@ -77,6 +78,7 @@ plt.xlabel('Predicted labels')
 plt.ylabel('True labels')
 plt.title('Original Confusion Matrix')
 plt.show()
+
 # Evaluate predictions
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
