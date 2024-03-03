@@ -1,7 +1,4 @@
-#the goal of this file is to display the decision tree 
-#using this example https://mljar.com/blog/visualize-decision-tree/https://mljar.com/blog/visualize-decision-tree/
-
-#explore additional visuals for trees
+#PURPOSE: display the decision tree using this example https://mljar.com/blog/visualize-decision-tree/https://mljar.com/blog/visualize-decision-tree/
 
 from matplotlib import pyplot as plt
 from sklearn.tree import DecisionTreeClassifier 
@@ -25,7 +22,7 @@ X = array[:,0:4]
 y = array[:,4]
 print("Y before: ", Counter(y))
 
-#new info
+#synthetic data
 oversample = SVMSMOTE()
 X, y = oversample.fit_resample(X,y)
 print("Y after: ", Counter(y))
