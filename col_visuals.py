@@ -12,6 +12,7 @@ data = pd.read_csv("clean_total.csv")
 
 #cols we're analyzing
 dataframe = data[["Length (ft)", "Speed (mph)", "Height (ft)", "Inversions", "Drop (ft)"]]
+
 # box and whisker plots
 dataframe.plot(kind='box', subplots=True, layout=(3,2), sharex=False, sharey=False)
 plt.tight_layout()

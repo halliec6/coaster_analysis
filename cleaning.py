@@ -22,8 +22,6 @@ warnings.filterwarnings("ignore", message="The least populated class in y has on
 df = pd.read_csv('data.csv')
 pd.set_option('display.max_columns', None)
 
-#first dropped unnecessary cols
-#based on too many NaN values/not significant to our analysis
 to_drop = [
     'Δ Elevation (ft)',
     'Airtime Points',
@@ -38,22 +36,13 @@ to_drop = [
 
 ]
 df.drop(to_drop, inplace = True, axis = 1)
-# print(df.head(10))
 
-
-#next step is removing rows with a null value for height, speed or length
 df.dropna(subset=["Length (ft)", "Speed (mph)", "Height (ft)", "Inversions", "Drop (ft)", "Design"], inplace=True)
-#print(df.head(10))
 print(df.shape)
-
-#with drop we go down from 2k values to 400... need to consider if we want to include this or not
-# print("Number of NaN values in Drop(ft) column:",nan_count)
-# print(df.shape)
 
 dataframe = df[["Length (ft)", "Speed (mph)", "Height (ft)", "Inversions", "Drop (ft)", "Design"]]
 
-# dataframe.plot(kind='box', subplots=True, layout=(3,2), figsize=(10, 10), sharex=False, sharey=False)
-# plt.show()
+
 array = dataframe.values
 X = array[:,0:5]
 y = array[:,5]

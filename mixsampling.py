@@ -1,5 +1,4 @@
-#meet in the middle of the two datasets, oversample yes and undersample no to meet in the middle
-#visualize confusion matrix w a heat map
+#PURPOSE: Applying both oversampling and undersampling on the dataset, visualizes confusion matrix w a heat map
 
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split, cross_val_score, StratifiedKFold, RepeatedStratifiedKFold
@@ -45,6 +44,7 @@ def plot_algorithm_comparison(results, names, title):
     plt.boxplot(results, labels=names)
     plt.title(title)
     plt.show()
+
 
 def train_model_and_evaluate(model, X_train, Y_train, X_validation, Y_validation):
     model.fit(X_train, Y_train)
